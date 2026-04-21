@@ -56,18 +56,6 @@ useCooperativeMode	    Sync with stock modules
 debugLogging	        Enable debug logs
 
 -------------------------------------------
-Live Sync Display
-
-Shows the actual current animation state:
-
-    Reads from Unity AnimationState.normalizedTime
-    Updates every frame
-    Useful for debugging:
-        Stock module overrides
-        Animation drift
-        Timing issues
-
--------------------------------------------
 Cooperative Mode (Default)
 
 The module detects and follows stock animation owners.
