@@ -1,10 +1,10 @@
 {
   "NAME": "AnimationInitialization",
-  "URL": "https://raw.githubusercontent.com/linuxgurugamer/ModuleAnimationInitialization/master/ModuleAnimationInitialization.version",
-  "DOWNLOAD": "https://github.com/linuxgurugamer/ModuleAnimationInitialization/releases",
+  "URL": "https://raw.githubusercontent.com/linuxgurugamer/AnimationInitialization/refs/heads/main/AnimationInitialization.version",
+  "DOWNLOAD": "https://github.com/linuxgurugamer/AnimationInitialization/releases",
   "GITHUB": {
     "USERNAME": "linuxgurugamer",
-    "REPOSITORY": "ModuleAnimationInitialization",
+    "REPOSITORY": "AnimationInitialization",
     "ALLOW_PRE_RELEASE": false
   },
   "VERSION": {
