@@ -4,6 +4,8 @@ Built to solve a classic KSP problem:
 
 “Why is this thing deployed again?”
 
+-------------------------------------------
+
 A flexible KSP1 PartModule that initializes animations while remaining compatible with stock animation systems.
 
 This module solves incorrect startup states without fighting stock modules like ModuleAnimateGeneric or ModuleDeployableSolarPanel.
