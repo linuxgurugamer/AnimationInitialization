@@ -1,0 +1,31 @@
+{
+  "NAME": "AnimationInitialization",
+  "URL": "https://raw.githubusercontent.com/linuxgurugamer/ModuleAnimationInitialization/master/ModuleAnimationInitialization.version",
+  "DOWNLOAD": "https://github.com/linuxgurugamer/ModuleAnimationInitialization/releases",
+  "GITHUB": {
+    "USERNAME": "linuxgurugamer",
+    "REPOSITORY": "ModuleAnimationInitialization",
+    "ALLOW_PRE_RELEASE": false
+  },
+  "VERSION": {
+    "MAJOR": 1,
+    "MINOR": 0,
+    "PATCH": 0,
+    "BUILD": 0
+  },
+  "KSP_VERSION": {
+    "MAJOR": 1,
+    "MINOR": 12,
+    "PATCH": 5
+  },
+  "KSP_VERSION_MIN": {
+    "MAJOR": 1,
+    "MINOR": 12,
+    "PATCH": 0
+  },
+  "KSP_VERSION_MAX": {
+    "MAJOR": 1,
+    "MINOR": 12,
+    "PATCH": 99
+  }
+} 
